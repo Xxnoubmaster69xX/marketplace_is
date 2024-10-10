@@ -1,2 +1,2 @@
 # marketplace_is
-scholl project for a university marketplace
+school project for a university marketplace
